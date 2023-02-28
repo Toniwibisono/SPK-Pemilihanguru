@@ -1,0 +1,12 @@
+#logo {
+  background-color: #5599ff;
+  background-image: url("../../images/header.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  padding: 3em;
+  margin: 0px;
+  text-align: center;
+  position: relative;
+}
